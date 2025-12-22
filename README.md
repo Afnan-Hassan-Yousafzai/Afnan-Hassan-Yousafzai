@@ -56,7 +56,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Afnan-Hassan-Yousafzai/Afnan-Hassan_yousafzai/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
