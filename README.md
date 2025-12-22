@@ -1,18 +1,65 @@
-### Hi there, I'm Afnan Hassan! 👋
+<div align="center">
+  <h1 align="center">Hi there, I'm Afnan Hassan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  
+  <h3>🚀 Backend Developer | Network Security Enthusiast | Java Expert</h3>
+  
+  <p>
+    I specialize in building robust, low-level communication systems using <b>Socket Programming</b> and <b>Multithreading</b>. <br>
+    Currently exploring the world of <b>Full Stack Web Development</b>.
+  </p>
 
-I am a passionate **Backend Developer** and **Network Security Enthusiast** focusing on building robust, scalable communication systems. I specialize in Java multithreading and raw socket programming.
+  <a href="www.linkedin.com/in/afnan-hassan-yousafzai">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:afnanhassan2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
 
-🏆 **Recent Highlight:**
-Secured **1st Position** in the Computer Networks & Security Competition with **[Vellum](#)** — a secure, AI-powered chat ecosystem.
+<hr/>
 
-#### 🛠️ Tech Stack
-* **Languages:** Java (JDK 25), SQL.
-* **Core Concepts:** Socket Programming (TCP/UDP), Multithreading, Data Structures.
-* **Frontend:** JavaFX (Desktop), HTML/CSS (Web - Learning).
-* **Tools:** Git, IntelliJ IDEA, MySQL.
+<div align="center"> 
+  <h2>🏆 Recent Highlight</h2>
+  <h3>🥇 1st Place Winner: Computer Networks & Security Competition</h3>
+  <p>Co-creator of <a href="[https://github.com/YOUR_USERNAME/vellum](https://github.com/Afnan-Hassan-Yousafzai/Distributed-Session-Oriented-Exchange-System.git)"><b>VELLUM</b></a> — An intelligent, secure chat ecosystem powered by local AI and raw sockets.</p>
+</div>
 
-#### 🔭 Current Project
-**Vellum:** An intelligent local collaboration suite that merges secure instant messaging with an embedded AI assistant.
+<hr/>
 
----
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multithreading-000000?style=for-the-badge&logo=codio&logoColor=white" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" />
+</div>
+
+<br/>
+
+<h2 align="center">🐍 My Contributions</h2>
+<p align="center">
+  Watch the snake eat my commit graph!
+</p>
+
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
