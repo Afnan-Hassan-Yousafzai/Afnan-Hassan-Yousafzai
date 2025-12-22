@@ -58,6 +58,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afnan-Hassan-Yousafzai&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Hassan-Yousafzai&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afnan-Hassan-Yousafzai&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=0" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Hassan-Yousafzai&layout=compact&theme=dark&hide_border=true&v=1" height="150" alt="languages graph" />
 </div>
