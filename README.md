@@ -8,7 +8,7 @@
     Currently exploring the world of <b>Full Stack Web Development</b>.
   </p>
 
-  <a href="www.linkedin.com/in/afnan-hassan-yousafzai">
+  <a href="https://www.linkedin.com/in/afnan-hassan-yousafzai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:afnanhassan2k5@gmail.com">
@@ -16,12 +16,19 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <h3>🐍 My Contributions</h3>
+  <img src="https://raw.githubusercontent.com/Afnan-Hassan-Yousafzai/Afnan-Hassan-Yousafzai/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 <hr/>
 
 <div align="center"> 
   <h2>🏆 Recent Highlight</h2>
   <h3>🥇 1st Place Winner: Computer Networks & Security Competition</h3>
-  <p>Co-creator of <a href="[https://github.com/YOUR_USERNAME/vellum](https://github.com/Afnan-Hassan-Yousafzai/Distributed-Session-Oriented-Exchange-System.git)"><b>VELLUM</b></a> — An intelligent, secure chat ecosystem powered by local AI and raw sockets.</p>
+  <p>Co-creator of <a href="https://github.com/Afnan-Hassan-Yousafzai/Distributed-Session-Oriented-Exchange-System"><b>VELLUM</b></a> — An intelligent, secure chat ecosystem powered by local AI and raw sockets.</p>
 </div>
 
 <hr/>
@@ -50,16 +57,7 @@
 
 <br/>
 
-<h2 align="center">🐍 My Contributions</h2>
-<p align="center">
-  Watch the snake eat my commit graph!
-</p>
-
 <div align="center">
-  <img src="https://github.com/Afnan-Hassan-Yousafzai/Afnan-Hassan_yousafzai/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afnan-Hassan_Yousafzai&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afnan-Hassan-Yousafzai&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Hassan-Yousafzai&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
