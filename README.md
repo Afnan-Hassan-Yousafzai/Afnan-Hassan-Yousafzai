@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3>🐍 My Contributions</h3>
-  <img src="https://raw.githubusercontent.com/Afnan-Hassan-Yousafzai/Afnan-Hassan-Yousafzai/output/github-contribution-grid-snake.svg?v=2" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Afnan-Hassan-Yousafzai/Afnan-Hassan-Yousafzai/output/github-contribution-grid-snake.svg?v=3&cache=0" alt="snake animation" />
 </div>
 
 <hr/>
