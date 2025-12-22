@@ -17,9 +17,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # FIRST COLOR (#0e4429) is the key. It turns empty slots into DARK GREEN.
-            dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#0e4429,#006d32,#26a641,#39d353,#216e39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#0e4429,#006d32,#26a641,#39d353,#216e39
+            # GREEN WALL + CYAN SNAKE
+            # We use Neon Cyan (#00f0ff) for the snake so it looks high-tech even in empty space.
+            dist/github-contribution-grid-snake.svg?color_snake=#00f0ff&color_dots=#0e4429,#006d32,#26a641,#39d353,#216e39
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#0e4429,#006d32,#26a641,#39d353,#216e39
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
